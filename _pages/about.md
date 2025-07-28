@@ -17,7 +17,7 @@ Another direction that I have been working on for a while is leveraging Deep Rei
 
 I got my PhD degree from [KU Leuven](https://www.kuleuven.be/english/kuleuven) under the supervision of [Prof. Patrick De Causmaecker](https://scholar.google.co.uk/citations?user=IHAmK_gAAAAJ&hl=en) and [Prof. Thomas Stützle](https://scholar.google.com/citations?user=OrODXkAAAAAJ&hl=en). The topic of my PhD was ["Data Analytics for Algorithm Design"](https://www.kuleuven.be/doctoraatsverdediging/fiches/3E14/3E140226.htm).
 
- *How to pronounce my name*: Nguyễn is a very common family name in Vietnam so people I met may recognise that I'm Vietnamese when they see my name. Actually this is my first name, written as Nguyên (I'm sure you can see the big difference between Nguyễn and Nguyên :stuck_out_tongue_winking_eye:). A close enough pronounciation of Nguyên is a *penguin* :penguin: without the "pen" :pencil2: part: /ˈpe**ŋ.ɡwɪn**/. So just think about me as a small penguin when you see me!
+ *How to pronounce my name*: Nguyễn is a very common family name in Vietnam so people I met may recognise that I'm Vietnamese when they see my name. Actually this is my first name, written as Nguyên (I'm sure you can see the big difference between Nguyễn and Nguyên :stuck_out_tongue_winking_eye:). A close enough pronounciation of Nguyên is "nguin" in *penguin* :penguin:: /ˈpe**ŋ.ɡwɪn**/. So just think about me as a small penguin when you see me!
 
 
 News

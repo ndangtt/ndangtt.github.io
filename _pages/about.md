@@ -9,11 +9,11 @@ redirect_from:
 
 Hello! My name is Nguyen (Nguyên in Vietnamese). I am a Lecturer (equiv. assistant professor) at the School of Computer Science, University of St Andrews. 
 
-Broadly speaking, my research interests lie in the intersection between machine learning and optimisation. I am particularly interested in automated algorithm configuration and automated algorithm selection, where the aim is to leverage both machine learning and optimisation techniques to automate the development and selection of algorithms. 
+Broadly speaking, my research interest is automated algorithm design for combinatorial optimisation. I am particularly interested in automated algorithm configuration and automated algorithm selection, where the aim is to leverage both machine learning and optimisation techniques to automate the development and selection of solvers. 
 
 Owing to their general-purpose nature, automated algorithm configuration and selection techniques are broadly applicable across a wide range of domains. One of my research focuses is on applying those techniques to constraint programming, especially automated constraint modelling. 
 
-Another direction that I have been working on for a while is leveraging Deep Reinforcement Learning for Dynamic Algorithm Configuration (DAC). DAC is a more general version of automated algorithm configuration where the aim is learn to adaptively adjust parameters of algorithm during the solving process (rather than finding a static best algorithm configuration). 
+Another focus of my research is Deep Reinforcement Learning for Dynamic Algorithm Configuration (DAC). DAC is a more general version of automated algorithm configuration where the aim is learn to adaptively adjust parameters of algorithm during the solving process (rather than finding a static best algorithm configuration). 
 
 I got my PhD degree from [KU Leuven](https://www.kuleuven.be/english/kuleuven) under the supervision of [Prof. Patrick De Causmaecker](https://scholar.google.co.uk/citations?user=IHAmK_gAAAAJ&hl=en) and [Prof. Thomas Stützle](https://scholar.google.com/citations?user=OrODXkAAAAAJ&hl=en). The topic of my PhD was ["Data Analytics for Algorithm Design"](https://www.kuleuven.be/doctoraatsverdediging/fiches/3E14/3E140226.htm).
 

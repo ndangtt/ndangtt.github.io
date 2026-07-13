@@ -5,6 +5,20 @@ permalink: /publication/
 author_profile: true
 ---
 
+2026
+======
+
+- Tai Nguyen, Phong Le, André Biedenkapp, Carola Doerr, and Nguyen Dang. **Deep Reinforcement Learning for Dynamic Algorithm Configuration: A Case Study on Optimizing OneMax with the (1+(λ,λ))-GA**. *ACM Transactions on Evolutionary Learning and Optimization* [[doi]](https://doi.org/10.1145/382121)
+
+- Tianchen Wu, Ian Miguel, and Nguyen Dang. **Towards Automated Generation of Benchmark Instances with Diverse Solver Performance**. *The 25th workshop on Constraint Modelling and Reformulation (ModRef'2026)* [[pdf]](https://2026.modref.org/papers/ModRef2026-12-Towards-Automated-Generation.pdf)
+
+- Tai Nguyen, Phong Le, Carola Doerr, and Nguyen Dang. **Discovering Interpretable Multi-Parameter Control Policies for Evolutionary Algorithms Using Deep Reinforcement Learning**. *arXiv preprint arXiv:2606.10129* [[arXiv]](https://arxiv.org/abs/2512.03805)
+
+- Erdem Kuş, Özgür Akgün, Nguyen Dang, Lars Kotthoff, and Ian Miguel. **On the Effect of Training Data Selection in Automated Algorithm Selection**. *The 32nd International Conference on Principles and Practice of Constraint Programming (CP'2026)* [[doi]](https://doi.org/10.4230/LIPIcs.CP.2026.38)
+
+- Tianchen Wu, Roman Barták, Jiří Švancara, Ian Miguel, and Nguyen Dang. **Towards Generating Discriminating Instances for Multi-Agent Pathfinding: A Case Study with Shelf-Based Warehouse Scenarios**. *UK Planning and Scheduling Special Interest Group (UK PlanSIG 2026)* [[pdf]](https://research-portal.st-andrews.ac.uk/files/333424812/Wu-et-al-Towards-generating-discriminating-instances-UKPlanSIG2026-paper10-2.pdf)
+
+
 2025
 ======
 

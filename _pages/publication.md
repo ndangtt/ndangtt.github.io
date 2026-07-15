@@ -12,7 +12,7 @@ author_profile: true
 
 - Tianchen Wu, Ian Miguel, and Nguyen Dang. **Towards Automated Generation of Benchmark Instances with Diverse Solver Performance**. *The 25th workshop on Constraint Modelling and Reformulation (ModRef'2026)* [[pdf]](https://2026.modref.org/papers/ModRef2026-12-Towards-Automated-Generation.pdf)
 
-- Tai Nguyen, Phong Le, Carola Doerr, and Nguyen Dang. **Discovering Interpretable Multi-Parameter Control Policies for Evolutionary Algorithms Using Deep Reinforcement Learning**. *arXiv preprint arXiv:2606.10129* [[arXiv]](https://arxiv.org/abs/2512.03805)
+- Tai Nguyen, Phong Le, Carola Doerr, and Nguyen Dang. **Discovering Interpretable Multi-Parameter Control Policies for Evolutionary Algorithms Using Deep Reinforcement Learning**. *arXiv preprint arXiv:2606.10129* [[arXiv]](https://arxiv.org/abs/2606.10129)
 
 - Erdem Kuş, Özgür Akgün, Nguyen Dang, Lars Kotthoff, and Ian Miguel. **On the Effect of Training Data Selection in Automated Algorithm Selection**. *The 32nd International Conference on Principles and Practice of Constraint Programming (CP'2026)* [[doi]](https://doi.org/10.4230/LIPIcs.CP.2026.38)
 

@@ -8,6 +8,8 @@ author_profile: true
 2026
 ======
 
+- Erdem Kuş, Özgür Akgün, Nguyen Dang, Ian Miguel, and Lars Kotthoff. **Frugal Algorithm Selection for Combinatorial Search**. *Journal of Artificial Intelligence Research*, vol. 86 [[doi]](https://doi.org/10.1613/jair.1.21266)
+
 - Tai Nguyen, Phong Le, André Biedenkapp, Carola Doerr, and Nguyen Dang. **Deep Reinforcement Learning for Dynamic Algorithm Configuration: A Case Study on Optimizing OneMax with the (1+(λ,λ))-GA**. *ACM Transactions on Evolutionary Learning and Optimization* [[doi]](https://doi.org/10.1145/3821217)
 
 - Tianchen Wu, Ian Miguel, and Nguyen Dang. **Towards Automated Generation of Benchmark Instances with Diverse Solver Performance**. *The 25th workshop on Constraint Modelling and Reformulation (ModRef'2026)* [[pdf]](https://2026.modref.org/papers/ModRef2026-12-Towards-Automated-Generation.pdf)

@@ -5,122 +5,450 @@ permalink: /publication/
 author_profile: true
 ---
 
-2026
-======
+## 2026
+{: .pub-year}
 
-- Erdem Kuş, Özgür Akgün, Nguyen Dang, Ian Miguel, and Lars Kotthoff. **Frugal Algorithm Selection for Combinatorial Search**. *Journal of Artificial Intelligence Research*, vol. 86 [[doi]](https://doi.org/10.1613/jair.1.21266)
+<div class="pub-entry" markdown="1">
+Frugal Algorithm Selection for Combinatorial Search [doi](https://doi.org/10.1613/jair.1.21266){: .pub-link}
+{: .pub-title}
 
-- Tai Nguyen, Phong Le, André Biedenkapp, Carola Doerr, and Nguyen Dang. **Deep Reinforcement Learning for Dynamic Algorithm Configuration: A Case Study on Optimizing OneMax with the (1+(λ,λ))-GA**. *ACM Transactions on Evolutionary Learning and Optimization* [[doi]](https://doi.org/10.1145/3821217)
+Erdem Kuş, Özgür Akgün, **Nguyen Dang**, Ian Miguel, and Lars Kotthoff
+{: .pub-authors}
 
-- Tianchen Wu, Ian Miguel, and Nguyen Dang. **Towards Automated Generation of Benchmark Instances with Diverse Solver Performance**. *The 25th workshop on Constraint Modelling and Reformulation (ModRef'2026)* [[pdf]](https://2026.modref.org/papers/ModRef2026-12-Towards-Automated-Generation.pdf)
+Journal of Artificial Intelligence Research, vol. 86
+{: .pub-venue}
+</div>
 
-- Tai Nguyen, Phong Le, Carola Doerr, and Nguyen Dang. **Discovering Interpretable Multi-Parameter Control Policies for Evolutionary Algorithms Using Deep Reinforcement Learning**. *arXiv preprint arXiv:2606.10129* [[arXiv]](https://arxiv.org/abs/2606.10129)
+<div class="pub-entry" markdown="1">
+Deep Reinforcement Learning for Dynamic Algorithm Configuration: A Case Study on Optimizing OneMax with the (1+(λ,λ))-GA [doi](https://doi.org/10.1145/3821217){: .pub-link}
+{: .pub-title}
 
-- Erdem Kuş, Özgür Akgün, Nguyen Dang, Lars Kotthoff, and Ian Miguel. **On the Effect of Training Data Selection in Automated Algorithm Selection**. *The 32nd International Conference on Principles and Practice of Constraint Programming (CP'2026)* [[doi]](https://doi.org/10.4230/LIPIcs.CP.2026.38)
+Tai Nguyen, Phong Le, André Biedenkapp, Carola Doerr, and **Nguyen Dang**
+{: .pub-authors}
 
-- Tianchen Wu, Roman Barták, Jiří Švancara, Ian Miguel, and Nguyen Dang. **Towards Generating Discriminating Instances for Multi-Agent Pathfinding: A Case Study with Shelf-Based Warehouse Scenarios**. *UK Planning and Scheduling Special Interest Group (UK PlanSIG 2026)* [[pdf]](https://research-portal.st-andrews.ac.uk/files/333424812/Wu-et-al-Towards-generating-discriminating-instances-UKPlanSIG2026-paper10-2.pdf)
+ACM Transactions on Evolutionary Learning and Optimization
+{: .pub-venue}
+</div>
 
+<div class="pub-entry" markdown="1">
+Towards Automated Generation of Benchmark Instances with Diverse Solver Performance [pdf](https://2026.modref.org/papers/ModRef2026-12-Towards-Automated-Generation.pdf){: .pub-link}
+{: .pub-title}
 
-2025
-======
+Tianchen Wu, Ian Miguel, and **Nguyen Dang**
+{: .pub-authors}
 
-- Nguyen Dang, Ian P. Gent, Peter Nightingale, Felix Ulrich-Oltean, and Jack Waller. **Constraint Models for Klondike**. *CP'2025*
+The 25th workshop on Constraint Modelling and Reformulation (ModRef)
+{: .pub-venue}
+</div>
 
-- Alessio Pellegrino, Özgür Akgün, Nguyen Dang, Zeynep Kiziltan, and Ian Miguel. **Transformer-Based Feature Learning for Algorithm Selection in Combinatorial Optimisation**. *CP'2025*
+<div class="pub-entry" markdown="1">
+Discovering Interpretable Multi-Parameter Control Policies for Evolutionary Algorithms Using Deep Reinforcement Learning [arXiv](https://arxiv.org/abs/2606.10129){: .pub-link}
+{: .pub-title}
 
-- Tai Nguyen, Phong Le, André  Biedenkapp, Carola Doerr and Nguyen Dang. **On the Importance of Reward Design in Reinforcement Learning-based Dynamic Algorithm Configuration: A Case Study on OneMax with (1+($\lambda$,$\lambda$))-GA**. :trophy: **Best paper award** at [GECCO'2025](https://gecco-2025.sigevo.org/HomePage) (L4EC track) [[arXiv]](https://arxiv.org/abs/2502.20265) [[doi]](https://doi.org/10.1145/3712256.3726395)
+Tai Nguyen, Phong Le, Carola Doerr, and **Nguyen Dang**
+{: .pub-authors}
 
- - Tai Nguyen, Phong Le, Carola Doerr and Nguyen Dang. **Multi-parameter Control for the (1+(λ,λ))-GA on OneMax via Deep Reinforcement Learning"**. *FOGA'2025* [[arXiv]](https://arxiv.org/abs/2505.12982) 
+arXiv preprint arXiv:2606.10129
+{: .pub-venue}
+</div>
 
- - Saad Attieh, Nguyen Dang, Chris Jefferson, Ian Miguel, and Peter Nightingale. **Athanor: Local search over abstract constraint specifications**. *Artificial Intelligence Journal* [[doi]](https://doi.org/10.1016/j.artint.2024.104277)
+<div class="pub-entry" markdown="1">
+On the Effect of Training Data Selection in Automated Algorithm Selection [doi](https://doi.org/10.4230/LIPIcs.CP.2026.38){: .pub-link}
+{: .pub-title}
 
+Erdem Kuş, Özgür Akgün, **Nguyen Dang**, Lars Kotthoff, and Ian Miguel
+{: .pub-authors}
 
-2024
-======
+The 32nd International Conference on Principles and Practice of Constraint Programming (CP 2026)
+{: .pub-venue}
+</div>
 
-- Alessio Pellegrino, Özgür Akgün, Nguyen Dang, Zeynep Kiziltan, and Ian Miguel. **Automatic Feature Learning for Essence: a Case Study on Car Sequencing**. *ModRef'2024*
+<div class="pub-entry" markdown="1">
+Towards Generating Discriminating Instances for Multi-Agent Pathfinding: A Case Study with Shelf-Based Warehouse Scenarios [pdf](https://research-portal.st-andrews.ac.uk/files/333424812/Wu-et-al-Towards-generating-discriminating-instances-UKPlanSIG2026-paper10-2.pdf){: .pub-link}
+{: .pub-title}
 
-- Erdem Kuş, Özgür Akgün, Nguyen Dang, and Ian Miguel **Frugal Algorithm Selection**. *CP'2024*
+Tianchen Wu, Roman Barták, Jiří Švancara, Ian Miguel, and **Nguyen Dang**
+{: .pub-authors}
 
-- Nguyen Dang, Ian Gent, Peter Nightingale, Felix Ulrich-Oltean, and Jack Waller. **Constraint models for relaxed Klondike variants**. *ModRef'2024*
+UK Planning and Scheduling Special Interest Group (UK PlanSIG 2026)
+{: .pub-venue}
+</div>
 
-2023
-======
+## 2025
+{: .pub-year}
 
-- Patrick Spracklen, Nguyen Dang, Özgür Akgün, and Ian Miguel. **Automated streamliner portfolios for constraint satisfaction problems**. *Artificial Intelligence Journal* 
+<div class="pub-entry" markdown="1">
+Constraint Models for Klondike
+{: .pub-title}
 
-* Deyao Chen, Maxim Buzdalov, Carola Doerr, and Nguyen Dang. **Using Automated Algorithm Configuration for Parameter Control**. *FOGA 2023* [[arXiv]](https://arxiv.org/abs/2302.12334) [[doi]](https://doi.org/10.1145/3594805.3607127) :star: **Nominated for best paper award**
+**Nguyen Dang**, Ian P. Gent, Peter Nightingale, Felix Ulrich-Oltean, and Jack Waller
+{: .pub-authors}
 
+The 31st International Conference on Principles and Practice of Constraint Programming (CP 2025)
+{: .pub-venue}
+</div>
 
-2022
-======
+<div class="pub-entry" markdown="1">
+Transformer-Based Feature Learning for Algorithm Selection in Combinatorial Optimisation
+{: .pub-title}
 
-* Nguyen Dang, Özgür Akgün, Joan Espasa, Ian Miguel, and Peter Nightingale. **A Framework for Generating Informative Benchmark Instances**. *CP 2022* 
+Alessio Pellegrino, Özgür Akgün, **Nguyen Dang**, Zeynep Kiziltan, and Ian Miguel
+{: .pub-authors}
 
-* André Biedenkapp*, Nguyen Dang*, Martin S. Krejca*, Frank Hutter, and Carola Doerr. **Theory‑inspired Parameter Control Benchmarks for Dynamic Algorithm Configuration**. :trophy: **Best paper award** at [GECCO'2022](https://gecco-2022.sigevo.org/HomePage.html) (GECH track)  (*shared first authorship)
+The 31st International Conference on Principles and Practice of Constraint Programming (CP 2025)
+{: .pub-venue}
+</div>
 
-- Nguyen Dang. **A portfolio-based analysis method for competition results**. *ModRef'2022* [[arXiv]](https://arxiv.org/abs/2205.15414)
+<div class="pub-entry" markdown="1">
+On the Importance of Reward Design in Reinforcement Learning-based Dynamic Algorithm Configuration: A Case Study on OneMax with (1+(λ,λ))-GA [arXiv](https://arxiv.org/abs/2502.20265){: .pub-link} [doi](https://doi.org/10.1145/3712256.3726395){: .pub-link}
+{: .pub-title}
 
+<span class="pub-badge">🏆 Best paper award (L4EC track)</span>
 
-2020
-======
+Tai Nguyen, Phong Le, André Biedenkapp, Carola Doerr, and **Nguyen Dang**
+{: .pub-authors}
 
-* Özgür Akgün, Nguyen Dang, Ian Miguel, András Z. Salamon, Patrick Spracklen, and Christopher Stone. **Discriminating Instance Generation from Abstract Specifications: A Case Study with CP and MIP**. *CPAIOR'2020* [[pdf]](https://research-repository.st-andrews.ac.uk/bitstream/handle/10023/20866/Akg_n_2020_Discriminating_instance_recognition_CPAIOR_AAM.pdf?sequence=1&isAllowed=y)
+The Genetic and Evolutionary Computation Conference (GECCO 2025)
+{: .pub-venue}
+</div>
 
-* Patrick Spracklen, Nguyen Dang, Özgür Akgün, and Ian Miguel. **Towards Portfolios of Streamlined Constraint Models: A Case Study with the Balanced Academic Curriculum Problem**. *ModRef'2021* [[pdf]](https://arxiv.org/pdf/2009.10152)
+<div class="pub-entry" markdown="1">
+Multi-parameter Control for the (1+(λ,λ))-GA on OneMax via Deep Reinforcement Learning [arXiv](https://arxiv.org/abs/2505.12982){: .pub-link}
+{: .pub-title}
 
-* Özgür Akgün, Nguyen Dang, Joan Espasa, Ian Miguel, András Z. Salamon, and Christopher Stone. **Exploring Instance Generation for Automated Planning**. *ModRef'2021* [[pdf]](https://modref.github.io/papers/ModRef2020_Exploring%20Instance%20Generation%20for%20Automated%20Planning.pdf)
+Tai Nguyen, Phong Le, Carola Doerr, and **Nguyen Dang**
+{: .pub-authors}
 
-* Gökberk Koçak, Özgür Akgün, Nguyen Dang, and Ian Miguel. **Efficient Incremental Modelling and Solving**. *ModRef'2021* [[pdf]](https://modref.github.io/papers/ModRef2020_Efficient%20Incremental%20Modelling%20and%20Solving.pdf)
+The 18th ACM/SIGEVO Conference on Foundations of Genetic Algorithms (FOGA XVIII)
+{: .pub-venue}
+</div>
 
+<div class="pub-entry" markdown="1">
+Athanor: Local search over abstract constraint specifications [doi](https://doi.org/10.1016/j.artint.2024.104277){: .pub-link}
+{: .pub-title}
 
-2019
-======
+Saad Attieh, **Nguyen Dang**, Chris Jefferson, Ian Miguel, and Peter Nightingale
+{: .pub-authors}
 
-* Sara Ceschia, Nguyen Dang, Patrick De Causmaecker, Stefaan Haspeslagh, and Andrea Schaerf. **The Second International Nurse Rostering Competition**. *Annals of Operations Research* 
+Artificial Intelligence Journal
+{: .pub-venue}
+</div>
 
-* Jeroen Corstjens, Nguyen Dang, Benoît Depaire, An Caris, and Patrick De Causmaecker. **A Combined Approach for Analysing Heuristic Algorithms**. *Journal of Heuristics* 
+## 2024
+{: .pub-year}
 
-* Özgür Akgün, Nguyen Dang, Ian Miguel, András Z. Salamon, and Christopher Stone. **Instance Generation via Generator Instances**. *CP'2019* 
+<div class="pub-entry" markdown="1">
+Automatic Feature Learning for Essence: a Case Study on Car Sequencing
+{: .pub-title}
 
-* Carlos Ansótegui, Miquel Bofill, Jordi Coll, Nguyen Dang, Juan Luis Esteban, Ian Miguel, Peter Nightingale, András Z. Salamon, Josep Suy, and Mateu Villaret. **Automatic detection of at-most-one and exactly-one relations for improved SAT encodings of pseudo-boolean constraints**. *CP'2019* 
+Alessio Pellegrino, Özgür Akgün, **Nguyen Dang**, Zeynep Kiziltan, and Ian Miguel
+{: .pub-authors}
 
-* Patrick Spracklen, Nguyen Dang, Özgür Akgün, and Ian Miguel. **Automatic Streamlining for Constrained Optimisation**. *CP'2019*
+The 23rd workshop on Constraint Modelling and Reformulation (ModRef)
+{: .pub-venue}
+</div>
 
-* Nguyen Dang and Carola Doerr. **Hyper‑parameter tuning for the (1 + (λ, λ)) GA**. *GECCO'2019*
+<div class="pub-entry" markdown="1">
+Frugal Algorithm Selection
+{: .pub-title}
 
-* Saad Attieh, Nguyen Dang, Christopher Jefferson, Ian Miguel, and Peter Nightingale. **Athanor: High‑Level Local Search Over Abstract Constraint Specifications in Essence**. *IJCAI'2019* 
+Erdem Kuş, Özgür Akgün, **Nguyen Dang**, and Ian Miguel
+{: .pub-authors}
 
-2018
-======
+The 30th International Conference on Principles and Practice of Constraint Programming (CP 2024)
+{: .pub-venue}
+</div>
 
-* Nguyen Dang and Patrick De Causmaecker. **Analysis of Algorithm Components and Parameters: Some Case Studies**. *LION'2018* 
+<div class="pub-entry" markdown="1">
+Constraint models for relaxed Klondike variants
+{: .pub-title}
 
+**Nguyen Dang**, Ian Gent, Peter Nightingale, Felix Ulrich-Oltean, and Jack Waller
+{: .pub-authors}
 
-2017
-======
+The 23rd workshop on Constraint Modelling and Reformulation (ModRef)
+{: .pub-venue}
+</div>
 
-* Nguyen Dang, Leslie Pérez Cáceres, Patrick De Causmaecker, and Thomas Stützle. **Configuring irace using surrogate configuration benchmarks**. :trophy: **Best paper award** at GECCO'2017 (ECOM track) [[doi]](https://doi.org/10.1145/3071178.3071238)
+## 2023
+{: .pub-year}
 
+<div class="pub-entry" markdown="1">
+Automated streamliner portfolios for constraint satisfaction problems
+{: .pub-title}
 
-2016
-======
+Patrick Spracklen, **Nguyen Dang**, Özgür Akgün, and Ian Miguel
+{: .pub-authors}
 
-- Nguyen Dang, Sara Ceschia, Andrea Schaerf, Patrick De Causmaecker, and Stefaan Haspeslagh. **Solving the multi-stage nurse rostering problem.** *PATAT'2016*
+Artificial Intelligence Journal
+{: .pub-venue}
+</div>
 
-* Nguyen Dang and Patrick De Causmaecker. **Characterization of Neighborhood Behaviours in a Multi‑neighborhood Local Search Algorithm**. *LION 2016* 
+<div class="pub-entry" markdown="1">
+Using Automated Algorithm Configuration for Parameter Control [arXiv](https://arxiv.org/abs/2302.12334){: .pub-link} [doi](https://doi.org/10.1145/3594805.3607127){: .pub-link}
+{: .pub-title}
 
-- Niels Elgers, Nguyen Dang and Patrick De Causmaecker. **A Metaheuristic Approach to computing (approximate) Pure Nash Equilibria.** META'2016
+<span class="pub-badge">⭐ Nominated for best paper award, FOGA 2023</span>
 
-- Nguyen Dang and Patrick De Causmaecker. **Characterization of neighborhood behaviours in a multi-neighborhood local search algorithm.** *LION'2016*
+Deyao Chen, Maxim Buzdalov, Carola Doerr, and **Nguyen Dang**
+{: .pub-authors}
 
+The 17th ACM/SIGEVO Conference on Foundations of Genetic Algorithms (FOGA XVII)
+{: .pub-venue}
+</div>
 
-2011
-======
+## 2022
+{: .pub-year}
 
-* Nguyen Dang and Tien Dinh. **A multi-stage local search for a real-world vehicle routing problem.** *IEEE ICNC'2011*
+<div class="pub-entry" markdown="1">
+A Framework for Generating Informative Benchmark Instances
+{: .pub-title}
 
-* Khoa Trinh, Nguyen Dang, and Tien Dinh. **An Approximation Approach for a Real–World Variant of Vehicle Routing Problem.** In New Challenges for Intelligent Information and Database Systems.
+**Nguyen Dang**, Özgür Akgün, Joan Espasa, Ian Miguel, and Peter Nightingale
+{: .pub-authors}
 
+The 28th International Conference on Principles and Practice of Constraint Programming (CP 2022)
+{: .pub-venue}
+</div>
 
- 
+<div class="pub-entry" markdown="1">
+Theory‑inspired Parameter Control Benchmarks for Dynamic Algorithm Configuration
+{: .pub-title}
+
+<span class="pub-badge">🏆 Best paper award (GECH track)</span>
+
+André Biedenkapp\*, **Nguyen Dang**\*, Martin S. Krejca\*, Frank Hutter, and Carola Doerr (\*shared first authorship)
+{: .pub-authors}
+
+The Genetic and Evolutionary Computation Conference (GECCO 2022)
+{: .pub-venue}
+</div>
+
+<div class="pub-entry" markdown="1">
+A portfolio-based analysis method for competition results [arXiv](https://arxiv.org/abs/2205.15414){: .pub-link}
+{: .pub-title}
+
+**Nguyen Dang**
+{: .pub-authors}
+
+The 21st workshop on Constraint Modelling and Reformulation (ModRef)
+{: .pub-venue}
+</div>
+
+## 2020
+{: .pub-year}
+
+<div class="pub-entry" markdown="1">
+Discriminating Instance Generation from Abstract Specifications: A Case Study with CP and MIP [pdf](https://research-repository.st-andrews.ac.uk/bitstream/handle/10023/20866/Akg_n_2020_Discriminating_instance_recognition_CPAIOR_AAM.pdf?sequence=1&isAllowed=y){: .pub-link}
+{: .pub-title}
+
+Özgür Akgün, **Nguyen Dang**, Ian Miguel, András Z. Salamon, Patrick Spracklen, and Christopher Stone
+{: .pub-authors}
+
+CPAIOR'2020
+{: .pub-venue}
+</div>
+
+<div class="pub-entry" markdown="1">
+Towards Portfolios of Streamlined Constraint Models: A Case Study with the Balanced Academic Curriculum Problem [pdf](https://arxiv.org/pdf/2009.10152){: .pub-link}
+{: .pub-title}
+
+Patrick Spracklen, **Nguyen Dang**, Özgür Akgün, and Ian Miguel
+{: .pub-authors}
+
+The 20th workshop on Constraint Modelling and Reformulation (ModRef)
+{: .pub-venue}
+</div>
+
+<div class="pub-entry" markdown="1">
+Exploring Instance Generation for Automated Planning [pdf](https://modref.github.io/papers/ModRef2020_Exploring%20Instance%20Generation%20for%20Automated%20Planning.pdf){: .pub-link}
+{: .pub-title}
+
+Özgür Akgün, **Nguyen Dang**, Joan Espasa, Ian Miguel, András Z. Salamon, and Christopher Stone
+{: .pub-authors}
+
+The 20th workshop on Constraint Modelling and Reformulation (ModRef)
+{: .pub-venue}
+</div>
+
+<div class="pub-entry" markdown="1">
+Efficient Incremental Modelling and Solving [pdf](https://modref.github.io/papers/ModRef2020_Efficient%20Incremental%20Modelling%20and%20Solving.pdf){: .pub-link}
+{: .pub-title}
+
+Gökberk Koçak, Özgür Akgün, **Nguyen Dang**, and Ian Miguel
+{: .pub-authors}
+
+The 20th workshop on Constraint Modelling and Reformulation (ModRef)
+{: .pub-venue}
+</div>
+
+## 2019
+{: .pub-year}
+
+<div class="pub-entry" markdown="1">
+The Second International Nurse Rostering Competition
+{: .pub-title}
+
+Sara Ceschia, **Nguyen Dang**, Patrick De Causmaecker, Stefaan Haspeslagh, and Andrea Schaerf
+{: .pub-authors}
+
+Annals of Operations Research
+{: .pub-venue}
+</div>
+
+<div class="pub-entry" markdown="1">
+A Combined Approach for Analysing Heuristic Algorithms
+{: .pub-title}
+
+Jeroen Corstjens, **Nguyen Dang**, Benoît Depaire, An Caris, and Patrick De Causmaecker
+{: .pub-authors}
+
+Journal of Heuristics
+{: .pub-venue}
+</div>
+
+<div class="pub-entry" markdown="1">
+Instance Generation via Generator Instances
+{: .pub-title}
+
+Özgür Akgün, **Nguyen Dang**, Ian Miguel, András Z. Salamon, and Christopher Stone
+{: .pub-authors}
+
+The 25th International Conference on Principles and Practice of Constraint Programming (CP 2019)
+{: .pub-venue}
+</div>
+
+<div class="pub-entry" markdown="1">
+Automatic detection of at-most-one and exactly-one relations for improved SAT encodings of pseudo-boolean constraints
+{: .pub-title}
+
+Carlos Ansótegui, Miquel Bofill, Jordi Coll, **Nguyen Dang**, Juan Luis Esteban, Ian Miguel, Peter Nightingale, András Z. Salamon, Josep Suy, and Mateu Villaret
+{: .pub-authors}
+
+The 25th International Conference on Principles and Practice of Constraint Programming (CP 2019)
+{: .pub-venue}
+</div>
+
+<div class="pub-entry" markdown="1">
+Automatic Streamlining for Constrained Optimisation
+{: .pub-title}
+
+Patrick Spracklen, **Nguyen Dang**, Özgür Akgün, and Ian Miguel
+{: .pub-authors}
+
+The 25th International Conference on Principles and Practice of Constraint Programming (CP 2019)
+{: .pub-venue}
+</div>
+
+<div class="pub-entry" markdown="1">
+Hyper‑parameter tuning for the (1 + (λ, λ)) GA
+{: .pub-title}
+
+**Nguyen Dang** and Carola Doerr
+{: .pub-authors}
+
+The Genetic and Evolutionary Computation Conference (GECCO 2019)
+{: .pub-venue}
+</div>
+
+<div class="pub-entry" markdown="1">
+Athanor: High‑Level Local Search Over Abstract Constraint Specifications in Essence
+{: .pub-title}
+
+Saad Attieh, **Nguyen Dang**, Christopher Jefferson, Ian Miguel, and Peter Nightingale
+{: .pub-authors}
+
+The 28th International Joint Conference on Artificial Intelligence (IJCAI 2019)
+{: .pub-venue}
+</div>
+
+## 2018
+{: .pub-year}
+
+<div class="pub-entry" markdown="1">
+Analysis of Algorithm Components and Parameters: Some Case Studies
+{: .pub-title}
+
+**Nguyen Dang** and Patrick De Causmaecker
+{: .pub-authors}
+
+The 12th International Conference on Learning and Intelligent Optimization (LION 2018)
+{: .pub-venue}
+</div>
+
+## 2017
+{: .pub-year}
+
+<div class="pub-entry" markdown="1">
+Configuring irace using surrogate configuration benchmarks [doi](https://doi.org/10.1145/3071178.3071238){: .pub-link}
+{: .pub-title}
+
+<span class="pub-badge">🏆 Best paper award (ECOM track)</span>
+
+**Nguyen Dang**, Leslie Pérez Cáceres, Patrick De Causmaecker, and Thomas Stützle
+{: .pub-authors}
+
+The Genetic and Evolutionary Computation Conference (GECCO 2017)
+{: .pub-venue}
+</div>
+
+## 2016
+{: .pub-year}
+
+<div class="pub-entry" markdown="1">
+Solving the multi-stage nurse rostering problem
+{: .pub-title}
+
+**Nguyen Dang**, Sara Ceschia, Andrea Schaerf, Patrick De Causmaecker, and Stefaan Haspeslagh
+{: .pub-authors}
+
+The 11th International Conference on the Practice and Theory of Automated Timetabling (PATAT 2016)
+{: .pub-venue}
+</div>
+
+<div class="pub-entry" markdown="1">
+Characterization of Neighborhood Behaviours in a Multi‑neighborhood Local Search Algorithm
+{: .pub-title}
+
+**Nguyen Dang** and Patrick De Causmaecker
+{: .pub-authors}
+
+The 10th International Conference on Learning and Intelligent Optimization (LION 2016)
+{: .pub-venue}
+</div>
+
+<div class="pub-entry" markdown="1">
+A Metaheuristic Approach to computing (approximate) Pure Nash Equilibria
+{: .pub-title}
+
+Niels Elgers, **Nguyen Dang**, and Patrick De Causmaecker
+{: .pub-authors}
+
+META'2016
+{: .pub-venue}
+</div>
+
+## 2011
+{: .pub-year}
+
+<div class="pub-entry" markdown="1">
+A multi-stage local search for a real-world vehicle routing problem
+{: .pub-title}
+
+**Nguyen Dang** and Tien Dinh
+{: .pub-authors}
+
+IEEE ICNC'2011
+{: .pub-venue}
+</div>
+
+<div class="pub-entry" markdown="1">
+An Approximation Approach for a Real–World Variant of Vehicle Routing Problem
+{: .pub-title}
+
+Khoa Trinh, **Nguyen Dang**, and Tien Dinh
+{: .pub-authors}
+
+New Challenges for Intelligent Information and Database Systems
+{: .pub-venue}
+</div>

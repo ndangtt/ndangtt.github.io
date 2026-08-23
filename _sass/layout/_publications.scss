@@ -1,0 +1,92 @@
+/* ==========================================================================
+   PUBLICATION LIST
+   ========================================================================== */
+
+.pub-year {
+  margin: 1.8em 0 0.7em;
+  padding-bottom: 0.25em;
+  font-size: 1.3em;
+  font-weight: 700;
+  color: var(--global-link-color);
+  border-bottom: 2px solid var(--global-border-color);
+
+  &:first-of-type {
+    margin-top: 0.6em;
+  }
+}
+
+.pub-entry {
+  position: relative;
+  margin: 0 0 0.55em;
+  padding: 0.5em 1em;
+  border-left: 3px solid var(--global-border-color);
+  background: var(--global-footer-bg-color);
+  border-radius: 0 5px 5px 0;
+  transition: border-color 0.2s ease;
+
+  &:hover {
+    border-left-color: var(--global-link-color);
+  }
+
+  p {
+    margin: 0;
+    line-height: 1.4;
+
+    & + p {
+      margin-top: 0.15em;
+    }
+  }
+}
+
+.pub-title {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  column-gap: 0.55em;
+  row-gap: 0.1em;
+  font-weight: 600;
+  font-size: 1em;
+}
+
+.pub-authors {
+  font-size: 0.92em;
+  color: var(--global-text-color);
+}
+
+.pub-venue {
+  font-size: 0.92em;
+  font-style: italic;
+  color: var(--global-text-color);
+}
+
+a.pub-link {
+  display: inline-block;
+  padding: 0.03em 0.5em;
+  font-size: 0.68em;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: var(--global-link-color);
+  background: transparent;
+  border: 1px solid var(--global-link-color);
+  border-radius: 4px;
+  white-space: nowrap;
+
+  &:hover {
+    color: var(--global-bg-color);
+    background: var(--global-link-color);
+  }
+}
+
+.pub-badge {
+  display: inline-block;
+  margin: 0 0 0.15em;
+  padding: 0.03em 0.5em;
+  font-size: 0.72em;
+  font-weight: 600;
+  color: #8a6100;
+  background: #fff3cd;
+  border: 1px solid #f0d78c;
+  border-radius: 4px;
+}

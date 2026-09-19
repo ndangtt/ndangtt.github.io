@@ -19,6 +19,8 @@ I got my PhD degree from [KU Leuven](https://www.kuleuven.be/english/kuleuven) u
 
  *How to pronounce my name*: Nguyễn is a very common family name in Vietnam so people I met may recognise that I'm Vietnamese when they see my name. Actually this is my first name, written as Nguyên (I'm sure you can see the big difference between Nguyễn and Nguyên :stuck_out_tongue_winking_eye:). A close enough pronounciation of Nguyên is "nguin" in *penguin* :penguin:: /ˈpe**ŋ.ɡwɪn**/. So just think about me as a small penguin when you see me!
 
+You can find my short CV [here](/files/CV.pdf).
+
 
 News
 ======
